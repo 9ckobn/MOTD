@@ -1,6 +1,6 @@
 # MOTD
 
-### Server Repo -
+### Server Repo - [GitHub Repo](https://github.com/9ckobn/MOTD-backend)
 
 ### Client Repo -
 
